@@ -1,6 +1,6 @@
 # Bugfix Playbook
 
-1. Reproduce el bug (pasos claros)
-2. Encuentra causa raíz (archivo/función/condición)
-3. Aplica fix mínimo
-4. Agrega/actualiza test si aplica
+1. Reproduce the bug (clear steps)
+2. Find root cause (file/function/condition)
+3. Apply minimal fix
+4. Add/update test if applicable

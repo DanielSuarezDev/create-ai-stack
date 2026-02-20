@@ -1,3 +1,3 @@
 # AI Workspace
 
-Este repo tiene una carpeta `.ai/` con prompts, reglas y agentes.
+This repo has an `.ai/` folder with prompts, rules, and agents.

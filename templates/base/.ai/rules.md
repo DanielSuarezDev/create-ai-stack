@@ -1,7 +1,7 @@
-# Reglas del repositorio
+# Repository rules
 
-- Preferir cambios pequeños por commit.
-- Mantener nombres consistentes.
-- No inventar APIs que no existen.
-- Si no estás seguro, di qué supones.
-- Siempre mostrar ejemplos de uso.
+- Prefer small changes per commit.
+- Keep consistent naming.
+- Do not invent APIs that do not exist.
+- If unsure, state what you assume.
+- Always show usage examples.

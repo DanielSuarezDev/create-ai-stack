@@ -1,26 +1,26 @@
 # Project Context
 
-## Qué es este proyecto
-(Describe en 2-4 líneas el objetivo del repo.)
-aqui dani presente
+## What is this project
+(Describe the repo goal in 2-4 lines.)
+dani is here
 
-## Stack detectado
+## Detected stack
 - TypeScript
 
-## Scripts disponibles
+## Available scripts
 - test
 - dev
 - build
 
-## Estructura (carpetas comunes encontradas)
+## Structure (common folders found)
 - src/
 
-## Pistas
-- (sin pistas)
+## Hints
+- (no hints)
 
-## Comandos de trabajo (completa)
-- Instalar dependencias: 
-- Correr dev:
-- Correr tests:
+## Work commands (complete)
+- Install dependencies: 
+- Run dev:
+- Run tests:
 - Lint/format:
 - Build:

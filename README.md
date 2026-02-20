@@ -1,16 +1,17 @@
 # devstackai
 
-Standardiza el contexto para trabajar con IA en cualquier repositorio.
+Standardize context for working with AI in any repository.
 
-Crea una carpeta `.ai/` como **fuente de verdad** (contexto, reglas y playbooks) y luego genera adapters listos para herramientas como:
+Creates an `.ai/` folder as the **source of truth** (context, rules, and playbooks) and then generates adapters ready for tools like:
 
 - Cursor (`.cursorrules`)
 - Claude (`CLAUDE.md`)
 
-> Edita `.ai/*` y regeneras con `devstackai sync`.
+> Edit `.ai/*` and regenerate with `devstackai sync`.
 
-## Instalación / Uso rápido
+## Installation / Quick Start
 
-### Opción recomendada (sin instalar)
+### Recommended option (without installing)
 ```bash
-npx devstackai# devstackai    
+npx devstackai
+```

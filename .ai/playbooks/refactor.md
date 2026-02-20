@@ -1,6 +1,6 @@
 # Refactor Playbook
 
-1. Define objetivo (legibilidad/perf/mantenibilidad)
-2. Cambios pequeños por commit
-3. Mantén comportamiento igual (tests/validaciones)
-4. Limpia deuda (nombres, tipos, duplicación)
+1. Define goal (readability/perf/maintainability)
+2. Small changes per commit
+3. Keep behavior equal (tests/validations)
+4. Clean debt (naming, types, duplication)

@@ -2,7 +2,7 @@
 # Do not edit manually.
 # Edit .ai/* and run: devstackai sync
 
-# Cursor Rules
+# Claude Instructions
 
 ## Project Context
 # Project Context
@@ -32,7 +32,7 @@ dani is here
 - Lint/format:
 - Build:
 
-## Coding Rules
+## Rules
 # Coding Rules
 
 - Use consistent naming
@@ -40,12 +40,7 @@ dani is here
 - Do not invent APIs: if info is missing, say so and propose options
 - Keep the repo style (TypeScript/ESLint/Prettier if they exist)
 
-## Playbooks
-- bugfix: see .ai/playbooks/bugfix.md
-- new-feature: see .ai/playbooks/new-feature.md
-- refactor: see .ai/playbooks/refactor.md
-
 ## Quality Gate
-- Before finalizing changes: run lint/test/build if they exist.
-- Keep changes small and verifiable.
-- If info is missing: ask for the exact file or declare minimal assumptions.
+- Keep changes minimal.
+- Do not invent APIs or files.
+- Before finalizing: suggest how to validate (tests/lint/build).

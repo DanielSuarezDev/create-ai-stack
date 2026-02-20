@@ -1,8 +1,8 @@
 # AI Workspace
 
-Fuente de verdad:
-- context.md (qué es el proyecto + comandos + estructura)
-- rules.md (reglas del repo)
-- playbooks/ (workflows repetibles)
+Source of truth:
+- context.md (what is the project + commands + structure)
+- rules.md (repo rules)
+- playbooks/ (repeatable workflows)
 
-Luego generamos adapters como .cursorrules / CLAUDE.md desde aquí.
+Then we generate adapters like .cursorrules / CLAUDE.md from here.

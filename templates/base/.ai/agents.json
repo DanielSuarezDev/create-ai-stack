@@ -1,0 +1,14 @@
+{
+    "agents": [
+      {
+        "name": "builder",
+        "description": "Construye features paso a paso",
+        "style": "directo, pragmático"
+      },
+      {
+        "name": "reviewer",
+        "description": "Revisa PRs, detecta bugs y mejora calidad",
+        "style": "crítico y claro"
+      }
+    ]
+  }

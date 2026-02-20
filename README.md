@@ -1,4 +1,4 @@
-# create-ai-stack
+# aistack
 
 Standardiza el contexto para trabajar con IA en cualquier repositorio.
 
@@ -7,10 +7,10 @@ Crea una carpeta `.ai/` como **fuente de verdad** (contexto, reglas y playbooks)
 - Cursor (`.cursorrules`)
 - Claude (`CLAUDE.md`)
 
-> Edita `.ai/*` y regeneras con `create-ai-stack sync`.
+> Edita `.ai/*` y regeneras con `aistack sync`.
 
 ## Instalación / Uso rápido
 
 ### Opción recomendada (sin instalar)
 ```bash
-npx create-ai-stack# create-ai-stack
+npx aistack# aistack    
